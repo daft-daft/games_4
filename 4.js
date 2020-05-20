@@ -4,7 +4,6 @@ var myVar = setInterval(myTimer, 5000);  // 5 seconds
 var lntotaltime=0; // keep track of total time so we can stop pinging the server if their not playing
 var whosturn="player1";
 
-
 function start(){
     yn=document.getElementById("yourname").value;
     pa=document.getElementById("playagainst").value;
