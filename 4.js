@@ -1,3 +1,20 @@
+
+// just testing git, 13/3/23
+// well that failed at 11 am, and took out the internet!!!!!
+// failed again 11:07, password for ssh?
+// 11_10 created openssh key
+// 11:16 still fails on password for ssh
+// 11:21 added ssh key on web
+// 11:22 blank password failed
+// 11:24 git password failed
+// test ssh
+// 12:06 after coffee, re-create ssh key with password
+// 12:07 which passowrd?
+// 12:10 killed the network again
+// try email as user name ssh
+// still not working, ssh pwd works in cmd window
+// 14:07 re-installed git gui
+
 var me=2;
 
 var myVar = setInterval(myTimer, 5000);  // 5 seconds
